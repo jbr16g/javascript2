@@ -4,10 +4,10 @@
 Web Application Development
 
 ### Assignment Date:  
-(Month Day, Year)
+12/11/2018
 
 ### Student Name:  
-(First and Last Name)
+Jason Randall
 
 ### Project Description:
 (In your own words, briefly describe the assignment.)
@@ -17,7 +17,6 @@ Web Application Development
  published the project.)
 
 ### Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
-
+1. I learned how to update an element on a webpage by processing data and manuvering the DOM using the getElementById() method
+2. I learned how to construct if/else and nested if statements to make decisions.
+3. I learned how to declare, initialize, modify, and display variables.
